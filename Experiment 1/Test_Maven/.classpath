@@ -6,6 +6,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Github/BRM Lab/Experiment 1/upes.devops.hons/target/upes.devops.hons-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Github/BRM Lab/Experiment 1/upes.devops.hons/target/upes.devops.hons-0.0.1-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
